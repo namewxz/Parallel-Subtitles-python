@@ -48,7 +48,7 @@ python --version
 下载本项目代码后，直接在终端运行主脚本：
 
 ```
-python subtitle_display.py  # 假设您的文件名为 subtitle_display.py
+python bidui.py
 ```
 
 *注：请将文件名替换为您实际保存的文件名。*
