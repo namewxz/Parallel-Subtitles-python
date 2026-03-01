@@ -1,7 +1,7 @@
 ## 文件说明
 
-bidui.exe：打包好的windows应用，双击即可运行
-bidui.py：源代码
+bidui.exe：打包好的windows应用，双击即可运行  
+bidui.py：源代码  
 bidui-re.py：重构后的源代码，结构更清晰
 
 # **SubParallel**
